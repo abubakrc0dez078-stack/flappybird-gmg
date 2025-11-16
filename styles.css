@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*body*/
 body {
     font-family: 'Courier New', Courier, monospace;
@@ -9,4 +10,17 @@ body {
     border-radius: 10px;
     background-image: url("./asset/background.img.jpg");
 
+=======
+/*body*/
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board {
+    /*background-color: aqua;*/
+    border-radius: 10px;
+    background-image: url("./asset/background.img.jpg");
+
+>>>>>>> dab71d61783e0582f5f901e7b2aea751db2a5d1c
 }
